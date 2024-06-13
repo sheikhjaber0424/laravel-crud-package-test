@@ -1,0 +1,18 @@
+{
+    "name": "sheikhjaber0424/sheikhjaber0424-crud",
+    "description": "Laravel CRUD Package",
+    "autoload": {
+        "psr-4": {
+            "Sheikhjaber0424\\Sheikhjaber0424Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sheikhjaber0424",
+            "email": "sheikhjaber190@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.0|^8.0|^9.0"
+    }
+}
